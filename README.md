@@ -1,3 +1,8 @@
+# Versions
+* Angular: ^18.0.0
+* Bootsrap: 5.3.3
+* ng-bootstrap: ^17.0.0
+
 # Website
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
